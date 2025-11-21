@@ -1,2 +1,2 @@
 model_name,accuracy,precision,recall,f1_score,roc_auc
-XGBoost,0.726,0.7782,0.772,0.7618,0.9031
+Logistic Regression Tuned,0.7123,0.7383,0.7506,0.7163,0.9299

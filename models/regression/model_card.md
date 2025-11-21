@@ -17,7 +17,7 @@
 - **Pipeline:** Imputer (median) + Model
 
 ## Performance
-- **RMSE:** 1.66
+- **RMSE:** 2.75
 - **MAE:** 1.80
 - **R²:** 0.958
 

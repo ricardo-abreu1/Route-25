@@ -1,24 +1,26 @@
 
-# Model Card: XGBoost
+# Model Card: Logistic Regression Tuned
 
 ## Model Details
-- Algorithm: XGBoost
+- Algorithm: Logistic Regression Tuned
 - Version: 1.0
 - Framework: scikit-learn / XGBoost
 
 ## Data
-- Source: [describe dataset]
+- Source: Contains measurements of nine Quality of Service (QoS) per web service for 365 web services and includes two additional attributes: (a) a rank of web services based on our Web Service Relevancy Function (WsRF) and (b) a class which classifies web services based on their overall performance.
+
+
 - Preprocessing: scaling, feature engineering
 
 ## Features
 - Response Time, Availability, Throughput, Successability, Reliability, Compliance, Best Practices, Latency, Documentation
 
 ## Metrics
-- Accuracy: 0.726
-- Precision: 0.7782
-- Recall: 0.772
-- F1 Score: 0.7618
-- ROC-AUC: 0.9031
+- Accuracy: 0.7123
+- Precision: 0.7383
+- Recall: 0.7506
+- F1 Score: 0.7163
+- ROC-AUC: 0.9299
 
 ## Limitations
 - May underperform on unseen distributions
