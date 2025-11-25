@@ -1,8 +1,0 @@
-{
-    "model_name": "Logistic Regression Tuned",
-    "accuracy": 0.7123,
-    "precision": 0.7383,
-    "recall": 0.7506,
-    "f1_score": 0.7163,
-    "roc_auc": 0.9299
-}

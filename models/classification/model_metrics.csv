@@ -1,2 +1,0 @@
-model_name,accuracy,precision,recall,f1_score,roc_auc
-Logistic Regression Tuned,0.7123,0.7383,0.7506,0.7163,0.9299
