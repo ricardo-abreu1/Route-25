@@ -5,3 +5,5 @@ xgboost
 matplotlib
 shap
 tabulate
+streamlit
+plotly
