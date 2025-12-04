@@ -407,3 +407,60 @@
 2025-12-02 16:01:02,768 - Brake | State: Car Brand=Renault, Model=Clio, Year=2025, Speed=10, Lights=False, Clutch=False, Radio=False, Blinkers=None, Reverse=False, Hazard=False, Wipers=Off
 2025-12-02 16:01:03,107 - Brake | State: Car Brand=Renault, Model=Clio, Year=2025, Speed=0, Lights=False, Clutch=False, Radio=False, Blinkers=None, Reverse=False, Hazard=False, Wipers=Off
 2025-12-02 16:01:05,990 - Accelerate | State: Car Brand=Renault, Model=Clio, Year=2025, Speed=10, Lights=False, Clutch=False, Radio=False, Blinkers=None, Reverse=False, Hazard=False, Wipers=Off
+2025-12-04 09:24:15,557 - Accelerate | State: Car Brand=Renault, Model=Clio, Year=2025, Speed=10, Lights=False, Clutch=False, Radio=False, Blinkers=None, Reverse=False, Hazard=False, Wipers=Off
+2025-12-04 09:24:19,689 - Accelerate | State: Car Brand=Renault, Model=Clio, Year=2025, Speed=20, Lights=False, Clutch=False, Radio=False, Blinkers=None, Reverse=False, Hazard=False, Wipers=Off
+2025-12-04 09:24:20,709 - Accelerate | State: Car Brand=Renault, Model=Clio, Year=2025, Speed=30, Lights=False, Clutch=False, Radio=False, Blinkers=None, Reverse=False, Hazard=False, Wipers=Off
+2025-12-04 09:24:32,563 - Reverse Light OFF | State: Car Brand=Renault, Model=Clio, Year=2025, Speed=30, Lights=False, Clutch=False, Radio=False, Blinkers=None, Reverse=False, Hazard=False, Wipers=Off
+2025-12-04 09:24:35,826 - Reverse Light ON | State: Car Brand=Renault, Model=Clio, Year=2025, Speed=30, Lights=False, Clutch=False, Radio=False, Blinkers=None, Reverse=True, Hazard=False, Wipers=Off
+2025-12-04 09:24:37,418 - Reverse Light OFF | State: Car Brand=Renault, Model=Clio, Year=2025, Speed=30, Lights=False, Clutch=False, Radio=False, Blinkers=None, Reverse=False, Hazard=False, Wipers=Off
+2025-12-04 09:24:46,195 - Radio ON | State: Car Brand=Renault, Model=Clio, Year=2025, Speed=30, Lights=False, Clutch=False, Radio=True, Blinkers=None, Reverse=False, Hazard=False, Wipers=Off
+2025-12-04 09:24:48,346 - Radio OFF | State: Car Brand=Renault, Model=Clio, Year=2025, Speed=30, Lights=False, Clutch=False, Radio=False, Blinkers=None, Reverse=False, Hazard=False, Wipers=Off
+2025-12-04 09:33:04,914 - Radio ON | State: Car Brand=Renault, Model=Clio, Year=2025, Speed=0, Lights=False, Clutch=False, Radio=True, Blinkers=None, Reverse=False, Hazard=False, Wipers=Off
+2025-12-04 09:33:07,254 - Radio OFF | State: Car Brand=Renault, Model=Clio, Year=2025, Speed=0, Lights=False, Clutch=False, Radio=False, Blinkers=None, Reverse=False, Hazard=False, Wipers=Off
+2025-12-04 09:33:18,644 - Accelerate | State: Car Brand=Renault, Model=Clio, Year=2025, Speed=10, Lights=False, Clutch=False, Radio=False, Blinkers=None, Reverse=False, Hazard=False, Wipers=Off
+2025-12-04 09:33:19,861 - Accelerate | State: Car Brand=Renault, Model=Clio, Year=2025, Speed=20, Lights=False, Clutch=False, Radio=False, Blinkers=None, Reverse=False, Hazard=False, Wipers=Off
+2025-12-04 09:33:20,863 - Accelerate | State: Car Brand=Renault, Model=Clio, Year=2025, Speed=30, Lights=False, Clutch=False, Radio=False, Blinkers=None, Reverse=False, Hazard=False, Wipers=Off
+2025-12-04 09:33:21,784 - Accelerate | State: Car Brand=Renault, Model=Clio, Year=2025, Speed=40, Lights=False, Clutch=False, Radio=False, Blinkers=None, Reverse=False, Hazard=False, Wipers=Off
+2025-12-04 09:33:36,888 - Brake | State: Car Brand=Renault, Model=Clio, Year=2025, Speed=30, Lights=False, Clutch=False, Radio=False, Blinkers=None, Reverse=False, Hazard=False, Wipers=Off
+2025-12-04 09:33:37,856 - Brake | State: Car Brand=Renault, Model=Clio, Year=2025, Speed=20, Lights=False, Clutch=False, Radio=False, Blinkers=None, Reverse=False, Hazard=False, Wipers=Off
+2025-12-04 09:33:38,706 - Brake | State: Car Brand=Renault, Model=Clio, Year=2025, Speed=10, Lights=False, Clutch=False, Radio=False, Blinkers=None, Reverse=False, Hazard=False, Wipers=Off
+2025-12-04 09:33:39,530 - Brake | State: Car Brand=Renault, Model=Clio, Year=2025, Speed=0, Lights=False, Clutch=False, Radio=False, Blinkers=None, Reverse=False, Hazard=False, Wipers=Off
+2025-12-04 09:34:00,808 - Reverse Light OFF | State: Car Brand=Renault, Model=Clio, Year=2025, Speed=0, Lights=False, Clutch=False, Radio=False, Blinkers=None, Reverse=False, Hazard=False, Wipers=Off
+2025-12-04 09:34:03,311 - Reverse Light ON | State: Car Brand=Renault, Model=Clio, Year=2025, Speed=0, Lights=False, Clutch=False, Radio=False, Blinkers=None, Reverse=True, Hazard=False, Wipers=Off
+2025-12-04 09:34:09,264 - Reverse Light OFF | State: Car Brand=Renault, Model=Clio, Year=2025, Speed=0, Lights=False, Clutch=False, Radio=False, Blinkers=None, Reverse=False, Hazard=False, Wipers=Off
+2025-12-04 09:34:12,851 - Wipers Fast | State: Car Brand=Renault, Model=Clio, Year=2025, Speed=0, Lights=False, Clutch=False, Radio=False, Blinkers=None, Reverse=False, Hazard=False, Wipers=fast
+2025-12-04 09:34:15,988 - Wipers Medium | State: Car Brand=Renault, Model=Clio, Year=2025, Speed=0, Lights=False, Clutch=False, Radio=False, Blinkers=None, Reverse=False, Hazard=False, Wipers=medium
+2025-12-04 09:34:22,797 - Wipers Slow | State: Car Brand=Renault, Model=Clio, Year=2025, Speed=0, Lights=False, Clutch=False, Radio=False, Blinkers=None, Reverse=False, Hazard=False, Wipers=slow
+2025-12-04 09:34:26,886 - Wipers Medium | State: Car Brand=Renault, Model=Clio, Year=2025, Speed=0, Lights=False, Clutch=False, Radio=False, Blinkers=None, Reverse=False, Hazard=False, Wipers=medium
+2025-12-04 09:36:00,792 - Wipers Medium | State: Car Brand=Renault, Model=Clio, Year=2025, Speed=0, Lights=False, Clutch=False, Radio=False, Blinkers=None, Reverse=False, Hazard=False, Wipers=medium
+2025-12-04 09:36:05,185 - Wipers Fast | State: Car Brand=Renault, Model=Clio, Year=2025, Speed=0, Lights=False, Clutch=False, Radio=False, Blinkers=None, Reverse=False, Hazard=False, Wipers=fast
+2025-12-04 09:36:06,506 - Wipers Slow | State: Car Brand=Renault, Model=Clio, Year=2025, Speed=0, Lights=False, Clutch=False, Radio=False, Blinkers=None, Reverse=False, Hazard=False, Wipers=slow
+2025-12-04 09:36:07,632 - Reverse Light OFF | State: Car Brand=Renault, Model=Clio, Year=2025, Speed=0, Lights=False, Clutch=False, Radio=False, Blinkers=None, Reverse=False, Hazard=False, Wipers=slow
+2025-12-04 09:37:46,131 - Clutch Pressed | State: Car Brand=Renault, Model=Clio, Year=2025, Speed=0, Lights=False, Clutch=True, Radio=False, Blinkers=None, Reverse=False, Hazard=False, Wipers=slow
+2025-12-04 09:38:00,508 - Clutch Pressed | State: Car Brand=Renault, Model=Clio, Year=2025, Speed=0, Lights=False, Clutch=True, Radio=False, Blinkers=None, Reverse=False, Hazard=False, Wipers=slow
+2025-12-04 09:38:02,921 - Clutch Pressed | State: Car Brand=Renault, Model=Clio, Year=2025, Speed=0, Lights=False, Clutch=True, Radio=False, Blinkers=None, Reverse=False, Hazard=False, Wipers=slow
+2025-12-04 09:38:05,162 - Clutch Released | State: Car Brand=Renault, Model=Clio, Year=2025, Speed=0, Lights=False, Clutch=False, Radio=False, Blinkers=None, Reverse=False, Hazard=False, Wipers=slow
+2025-12-04 09:56:34,916 - Wipers Slow | State: Car Brand=Renault, Model=Clio, Year=2025, Speed=0, Lights=False, Clutch=False, Radio=False, Blinkers=None, Reverse=False, Hazard=False, Wipers=slow
+2025-12-04 09:56:36,181 - Wipers Off | State: Car Brand=Renault, Model=Clio, Year=2025, Speed=0, Lights=False, Clutch=False, Radio=False, Blinkers=None, Reverse=False, Hazard=False, Wipers=Off
+2025-12-04 09:56:38,656 - Wipers Off | State: Car Brand=Renault, Model=Clio, Year=2025, Speed=0, Lights=False, Clutch=False, Radio=False, Blinkers=None, Reverse=False, Hazard=False, Wipers=Off
+2025-12-04 09:56:40,261 - Wipers Fast | State: Car Brand=Renault, Model=Clio, Year=2025, Speed=0, Lights=False, Clutch=False, Radio=False, Blinkers=None, Reverse=False, Hazard=False, Wipers=fast
+2025-12-04 09:56:41,750 - Wipers Medium | State: Car Brand=Renault, Model=Clio, Year=2025, Speed=0, Lights=False, Clutch=False, Radio=False, Blinkers=None, Reverse=False, Hazard=False, Wipers=medium
+2025-12-04 09:56:43,323 - Wipers Slow | State: Car Brand=Renault, Model=Clio, Year=2025, Speed=0, Lights=False, Clutch=False, Radio=False, Blinkers=None, Reverse=False, Hazard=False, Wipers=slow
+2025-12-04 09:56:45,206 - Wipers Off | State: Car Brand=Renault, Model=Clio, Year=2025, Speed=0, Lights=False, Clutch=False, Radio=False, Blinkers=None, Reverse=False, Hazard=False, Wipers=Off
+2025-12-04 09:56:46,437 - Reverse Light OFF | State: Car Brand=Renault, Model=Clio, Year=2025, Speed=0, Lights=False, Clutch=False, Radio=False, Blinkers=None, Reverse=False, Hazard=False, Wipers=Off
+2025-12-04 09:56:48,408 - Reverse Light ON | State: Car Brand=Renault, Model=Clio, Year=2025, Speed=0, Lights=False, Clutch=False, Radio=False, Blinkers=None, Reverse=True, Hazard=False, Wipers=Off
+2025-12-04 09:56:50,017 - Reverse Light OFF | State: Car Brand=Renault, Model=Clio, Year=2025, Speed=0, Lights=False, Clutch=False, Radio=False, Blinkers=None, Reverse=False, Hazard=False, Wipers=Off
+2025-12-04 09:57:03,509 - Accelerate | State: Car Brand=Renault, Model=Clio, Year=2025, Speed=10, Lights=False, Clutch=False, Radio=False, Blinkers=None, Reverse=False, Hazard=False, Wipers=Off
+2025-12-04 09:57:04,748 - Accelerate | State: Car Brand=Renault, Model=Clio, Year=2025, Speed=20, Lights=False, Clutch=False, Radio=False, Blinkers=None, Reverse=False, Hazard=False, Wipers=Off
+2025-12-04 09:57:06,343 - Brake | State: Car Brand=Renault, Model=Clio, Year=2025, Speed=10, Lights=False, Clutch=False, Radio=False, Blinkers=None, Reverse=False, Hazard=False, Wipers=Off
+2025-12-04 09:57:07,142 - Brake | State: Car Brand=Renault, Model=Clio, Year=2025, Speed=0, Lights=False, Clutch=False, Radio=False, Blinkers=None, Reverse=False, Hazard=False, Wipers=Off
+2025-12-04 09:57:08,494 - Clutch Pressed | State: Car Brand=Renault, Model=Clio, Year=2025, Speed=0, Lights=False, Clutch=True, Radio=False, Blinkers=None, Reverse=False, Hazard=False, Wipers=Off
+2025-12-04 09:57:10,241 - Clutch Released | State: Car Brand=Renault, Model=Clio, Year=2025, Speed=0, Lights=False, Clutch=False, Radio=False, Blinkers=None, Reverse=False, Hazard=False, Wipers=Off
+2025-12-04 09:57:11,625 - Lights ON | State: Car Brand=Renault, Model=Clio, Year=2025, Speed=0, Lights=True, Clutch=False, Radio=False, Blinkers=None, Reverse=False, Hazard=False, Wipers=Off
+2025-12-04 09:57:13,596 - Lights OFF | State: Car Brand=Renault, Model=Clio, Year=2025, Speed=0, Lights=False, Clutch=False, Radio=False, Blinkers=None, Reverse=False, Hazard=False, Wipers=Off
+2025-12-04 09:57:15,249 - Radio ON | State: Car Brand=Renault, Model=Clio, Year=2025, Speed=0, Lights=False, Clutch=False, Radio=True, Blinkers=None, Reverse=False, Hazard=False, Wipers=Off
+2025-12-04 09:57:17,153 - Radio OFF | State: Car Brand=Renault, Model=Clio, Year=2025, Speed=0, Lights=False, Clutch=False, Radio=False, Blinkers=None, Reverse=False, Hazard=False, Wipers=Off
+2025-12-04 09:57:18,659 - Blinkers LEFT | State: Car Brand=Renault, Model=Clio, Year=2025, Speed=0, Lights=False, Clutch=False, Radio=False, Blinkers=left, Reverse=False, Hazard=False, Wipers=Off
+2025-12-04 09:57:25,251 - Blinkers RIGHT | State: Car Brand=Renault, Model=Clio, Year=2025, Speed=0, Lights=False, Clutch=False, Radio=False, Blinkers=right, Reverse=False, Hazard=False, Wipers=Off
+2025-12-04 09:57:31,400 - Hazard Lights ON | State: Car Brand=Renault, Model=Clio, Year=2025, Speed=0, Lights=False, Clutch=False, Radio=False, Blinkers=right, Reverse=False, Hazard=True, Wipers=Off
+2025-12-04 09:57:59,097 - Hazard Lights OFF | State: Car Brand=Renault, Model=Clio, Year=2025, Speed=0, Lights=False, Clutch=False, Radio=False, Blinkers=right, Reverse=False, Hazard=False, Wipers=Off
