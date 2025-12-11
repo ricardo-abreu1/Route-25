@@ -118,3 +118,8 @@ class Car:
         self.wipers = "fast"
         self.log_action("Wipers Fast")
         return "Wipers speed: Fast."
+
+    def wipers_off(self):
+        self.wipers = "Off"
+        self.log_action("Wipers Off")
+        return "Wipers Off"
